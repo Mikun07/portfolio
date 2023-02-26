@@ -8,7 +8,7 @@ function AboutOutlet() {
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
                 <p className='text-xl mt-4'>
-                    Hi, I'm Festus-Olaleye Ayomikun. I'm a skilled front-end developer who has made significant contributions to web development. With several years of experience, I have become proficient in using HTML, CSS, and JavaScript to create visually appealing and user-friendly interfaces for websites and applications.
+                    Hi, my name is Festus-Olaleye Ayomikun. A skilled front-end developer who has made significant contributions to web development. With several years of experience, I have become proficient in using HTML, CSS, and JavaScript to create visually appealing and user-friendly interfaces for websites and applications.
                 </p>
 
                 <br />
@@ -20,7 +20,7 @@ function AboutOutlet() {
                 <br />
 
                 <p className='text-xl mt-4'>
-                    I'm also passionate about staying up-to-date with the latest trends and technologies in front-end development. I'm a continuous learner who regularly attends conferences and workshops to expand my knowledge and skill set.
+                    I am also passionate about staying up-to-date with the latest trends and technologies in front-end development. A continuous learner who regularly attends conferences and workshops to expand my knowledge and skill set.
                 </p>
 
                 <br />
