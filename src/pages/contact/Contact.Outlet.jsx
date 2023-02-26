@@ -2,7 +2,7 @@ import React from 'react'
 
 function ContactOutlet() {
   return (
-    <div name='contact' className= 'w-full h-screen mt-10 bg-gray-900'>
+    <div name='contact' className= 'w-full h-full mt-10 bg-gray-900'>
         <div className=' flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full text-white'>
           <div className='py-8'>
             <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Contact</p>

@@ -62,7 +62,7 @@ function ExperienceOutlet() {
     ];
 
     return (
-        <div name='experience' className='bg-[#F9FAFB] w-full h-screen'>
+        <div name='experience' className='bg-[#F9FAFB] w-full h-full'>
             <div className=' max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-gray-900'>
                 <div>
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Experience</p>
