@@ -7,14 +7,26 @@ function AboutOutlet() {
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
-                <p className='text-xl mt-8'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam reiciendis laudantium, fugiat saepe placeat ex doloribus doloremque necessitatibus animi consectetur iusto porro ipsam, dolores voluptatem qui tempora suscipit. Aperiam, esse?
+                <p className='text-xl mt-4'>
+                    Hi, I'm Festus-Olaleye Ayomikun. I'm a skilled front-end developer who has made significant contributions to web development. With several years of experience, I have become proficient in using HTML, CSS, and JavaScript to create visually appealing and user-friendly interfaces for websites and applications.
                 </p>
 
                 <br />
 
-                <p className='text-xl mt-8'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae vero reiciendis, beatae veniam modi assumenda, impedit soluta laudantium ad sunt neque ex adipisci inventore autem, dicta obcaecati dolorem? Similique, eligendi.
+                <p className='text-xl mt-4'>
+                    One of my strengths is the ability to collaborate effectively with cross-functional teams, including UX designers and backend developers. I understand the importance of clear communication and strive to ensure that all stakeholders are aligned on project goals and timelines.
+                </p>
+
+                <br />
+
+                <p className='text-xl mt-4'>
+                    I'm also passionate about staying up-to-date with the latest trends and technologies in front-end development. I'm a continuous learner who regularly attends conferences and workshops to expand my knowledge and skill set.
+                </p>
+
+                <br />
+
+                <p className='text-xl mt-4'>
+                    Overall, I am a dedicated and skilled frontend developer who consistently delivers high-quality work. My attention to detail, collaborative spirit, and passion for learning make me a valuable asset to any development team.
                 </p>
             </div>
         </div>

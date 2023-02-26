@@ -14,7 +14,6 @@ function home() {
             I'm a Frontend developer, I have 3 years of experience building and designing interface.
             Currently, I work on web application using technologies like React and Tailwind CSS.
           </p>
-
           <Link to='experience' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-cyan-500 cursor-pointer'>
             Experience<span className='group-hover:rotate-90 duration-300 flex items-center'><MdOutlineKeyboardArrowRight size={25} className='ml-1' /></span>
           </Link>
