@@ -57,7 +57,7 @@ function home() {
     <div name='home' className='h-screen w-full pt-16 bg-[#F9FAFB]'>
       <div className='max-w-screen-lg gap-6 p-4 mx-auto flex flex-col w-full items-center justify-center h-full px-4 md:flex-row'>
         <div className='flex flex-col justify-center'>
-          <h2 className='text-4xl sm:text-6xl font-bold text-gray-800'>Hi, I'm Ayomikun</h2>
+          <h2 className='text-4xl sm:text-7xl sm:mt-52 font-bold text-gray-800'>Hi, I'm Ayomikun</h2>
           <p className='text-gray-500 py-4 max-w-md'>
             A Frontend developer, I have 3 years of experience building and designing interface.
             Currently, I work on web application using technologies like React and Tailwind CSS.
