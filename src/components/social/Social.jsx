@@ -56,7 +56,6 @@ function Social() {
                         </a>
                     </li>
                 ))}
-
             </ul>
         </div>
     )

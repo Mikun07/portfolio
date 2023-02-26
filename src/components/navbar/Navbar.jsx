@@ -25,6 +25,8 @@ function Navbar() {
         },
     ];
 
+    
+
     return (
         <div className='flex justify-between items-center w-full h-16 text-white fixed px-4 bg-gray-900'>
             <div>
@@ -56,7 +58,7 @@ function Navbar() {
                             >
                                 <Link onClick={() => setNav(!nav)} to={link} smooth duration={500}>{link}</Link>
                             </li>
-                        ))}
+                        ))}    
                     </ul>
                 )}
         </div>
