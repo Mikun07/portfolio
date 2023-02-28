@@ -18,7 +18,6 @@ function home() {
       ),
       href: 'https://linkedin.com',
       style: 'rounded-tr-md',
-      src: 'LinkedIn'
     },
     {
       id: 2,
@@ -28,7 +27,6 @@ function home() {
         </>
       ),
       href: 'https://github.com/Mikun07',
-      src: 'Github'
     },
     {
       id: 3,
@@ -38,7 +36,6 @@ function home() {
         </>
       ),
       href: 'mailto:ayomikunolaleye@gmail.com',
-      src: 'Mail'
     },
     {
       id: 4,
@@ -48,7 +45,6 @@ function home() {
         </>
       ),
       href: 'Resume.pdf',
-      style: 'rounded-br-md',
       download: true,
       src: 'Resume'
     },
@@ -64,7 +60,7 @@ function home() {
           </p>
 
           <div className='lg:hidden my-1 flex justify-between items-center'>
-            {Social.map(({ id, child, src, href, style, download }) => (
+            {Social.map(({ id, child, src, href, download }) => (
               <button key={id} className={'flex items-center rounded-md cursor-pointer w-14 h-14 px-4 bg-gray-900'}>
                 <a alt={src} href={href} className='flex justify-between items-center w-full text-white' download={download} target='_blank' rel="noreferrer">
                   {child}
