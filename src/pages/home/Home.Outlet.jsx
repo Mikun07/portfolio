@@ -55,7 +55,7 @@ function home() {
         <div className='flex flex-col justify-center'>
           <h2 className='text-4xl sm:text-7xl sm:mt-52 md:mt-0 font-bold text-gray-800'>I'm Ayomikun</h2>
           <p className='text-gray-500 py-4 max-w-md'>
-            A Frontend developer, I have 3 years of experience building and designing interface.
+            A Frontend developer, I have 4 years of experience building and designing interface.
             Currently, I work on web application using technologies like React and Tailwind CSS.
           </p>
 
