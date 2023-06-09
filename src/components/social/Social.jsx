@@ -12,7 +12,7 @@ function Social() {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'linkedin.com/in/ayomikun-festus-olaleye-bab137249',
+            href: 'https://www.linkedin.com/in/ayomikun-festus-olaleye-bab137249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2LsXSs0oSyykPYUHzKAwlw%3D%3D',
             style: 'rounded-tr-md'
         },
         {
